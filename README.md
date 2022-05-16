@@ -37,3 +37,5 @@
 если есть [homebrew](https://brew.sh): $ brew install git  
 если нет, [ссылка](https://git-scm.com/download/mac), выбираем вариант **Binary installer**  
 - Linux - команду в терминале для вашего дистрибутива со [страницы](https://git-scm.com/download/linux)  
+
+[Запись](https://eduhseru.sharepoint.com/sites/DataCulture/Shared%20Documents/%D0%98%D0%A1%D0%A2%D0%A0_1_3/Recordings/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B%201%20%D0%BA%D1%83%D1%80%D1%81%201_3-20220514_130942-%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F.mp4?web=1) встречи 1
