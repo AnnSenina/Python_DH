@@ -1,6 +1,6 @@
 # Python_DH
 
-Сюда буду выкладывать все файлы для курса повышения квалификации [**"Введение в Python для Digital Humanities"**](https://www.hse.ru/edu/dpo/473204831)
+Сюда буду выкладывать все материалы для курса повышения квалификации [**"Введение в Python для Digital Humanities"**](https://www.hse.ru/edu/dpo/473204831)
 
 Канал в [телеграме](https://t.me/pythonhse)
 
