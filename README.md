@@ -25,3 +25,16 @@
 [Google Colaboratory](https://colab.research.google.com/?hl=ru-RU)  
 [GitHub](https://github.com/AnnSenina/Python_DH)  
 [Git](https://git-scm.com/downloads)
+
+Домашнее задание:
+1. Зарегистрировать аккаунт в Google ИЛИ установить [Anaconda](https://www.anaconda.com) #рекомендую Google
+2. Зарегистрироваться на [GitHub](https://github.com/AnnSenina/Python_DH)
+3. Установить [Git](https://git-scm.com/downloads)
+
+Чтобы установить Git:  
+Windows - [скачать](https://git-scm.com/download/win), выбрав версию (32/64-разрядная система), установить как обычную программу (не менять никакие настройки про установке)
+MacOS -  
+    если есть [homebrew](https://brew.sh):  
+    $ brew install git
+    если нет, [ссылка](https://git-scm.com/download/mac), выбираем вариант **Binary installer**  
+Linux - команду в терминале для вашего дистрибутива со [страницы](https://git-scm.com/download/linux)
