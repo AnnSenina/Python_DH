@@ -13,6 +13,8 @@
 8. Краулеры+парсеры+скрейперы
 9. Основные библиотеки питона для DH-задач
 
+Расписание курса [здесь](https://github.com/AnnSenina/Python_DH/blob/main/Расписание%20курса)
+
 Встреча 1. Установка Git и Python 16.05.2022
 
 [Презентация](https://www.canva.com/design/DAE884hS7do/wmu1YZ3ahhPch0hxOfxhug/view?utm_content=DAE884hS7do&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
