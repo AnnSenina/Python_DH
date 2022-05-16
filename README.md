@@ -21,7 +21,7 @@
 
 Встреча 1. Установка Git и Python 16.05.2022
 
-[Презентация](https://www.canva.com/design/DAE884hS7do/wmu1YZ3ahhPch0hxOfxhug/view?utm_content=DAE884hS7do&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+[Презентация](https://www.canva.com/design/DAE884hS7do/wmu1YZ3ahhPch0hxOfxhug/view?utm_content=DAE884hS7do&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), [pdf](https://github.com/AnnSenina/Python_DH/blob/main/Python%20%D0%B4%D0%BB%D1%8F%20DH.pdf)  
 [Google Colaboratory](https://colab.research.google.com/?hl=ru-RU)  
 [GitHub](https://github.com/AnnSenina/Python_DH)  
 [Git](https://git-scm.com/downloads)
