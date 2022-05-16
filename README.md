@@ -32,9 +32,8 @@
 3. Установить [Git](https://git-scm.com/downloads)
 
 Чтобы установить Git:  
-Windows - [скачать](https://git-scm.com/download/win), выбрав версию (32/64-разрядная система), установить как обычную программу (не менять никакие настройки про установке)
-MacOS -  
-    если есть [homebrew](https://brew.sh):  
-    $ brew install git
-    если нет, [ссылка](https://git-scm.com/download/mac), выбираем вариант **Binary installer**  
-Linux - команду в терминале для вашего дистрибутива со [страницы](https://git-scm.com/download/linux)
+- Windows - [скачать](https://git-scm.com/download/win), выбрав версию (32/64-разрядная система), установить как обычную программу (не менять никакие настройки про установке)  
+- MacOS -  
+если есть [homebrew](https://brew.sh): $ brew install git  
+если нет, [ссылка](https://git-scm.com/download/mac), выбираем вариант **Binary installer**  
+- Linux - команду в терминале для вашего дистрибутива со [страницы](https://git-scm.com/download/linux)  
