@@ -1,6 +1,8 @@
 # Python_DH
 
-Сюда буду выкладывать все файлы для курса повышения квалификации [**"Введение в Python для Digital Humanities"**](https://www.hse.ru/edu/dpo/473204831)
+Сюда буду выкладывать все файлы для курса повышения квалификации [**"Введение в Python для Digital Humanities"**](https://www.hse.ru/edu/dpo/473204831)  
+
+[Ссылка](https://teams.microsoft.com/l/meetup-join/19%3aX-fzX3OBi0y4JXkeqiIdlxMGbh0pc_4LJuy0AKLitIw1%40thread.tacv2/1652513895774?context=%7b%22Tid%22%3a%2221f26c24-0793-4b07-a73d-563cd2ec235f%22%2c%22Oid%22%3a%226c586e17-eb16-4201-bc5d-f272a52a09cd%22%7d) на встречи
 
 Программа курса: 
 1. Установка Git и Python
