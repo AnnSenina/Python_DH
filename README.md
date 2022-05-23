@@ -27,7 +27,7 @@
 [Git](https://git-scm.com/downloads)
 
 [Блокнот](https://colab.research.google.com/drive/1skt9dR_kvHJ7ePZjy61pZgFMBIooQvlv?usp=sharing) встречи 1 от 16.05.2022  
-[Запись](https://eduhseru.sharepoint.com/sites/DataCulture/Shared%20Documents/%D0%98%D0%A1%D0%A2%D0%A0_1_3/Recordings/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B%201%20%D0%BA%D1%83%D1%80%D1%81%201_3-20220514_130942-%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F.mp4?web=1) встречи 1
+[Запись](https://eduhseru.sharepoint.com/sites/DataCulture/Shared%20Documents/%D0%98%D0%A1%D0%A2%D0%A0_1_3/Recordings/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D1%8B%201%20%D0%BA%D1%83%D1%80%D1%81%201_3-20220514_130942-%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F.mp4?web=1) встречи 1  
 
 Домашнее задание:
 1. Зарегистрировать аккаунт в Google ИЛИ установить [Anaconda](https://www.anaconda.com) #рекомендую Google
