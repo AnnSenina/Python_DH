@@ -50,7 +50,7 @@
 После решения задач отправьте мне доступ к вашему блокноту: справа вверху:  
 **Поделиться - можно вписать мою почту ann.sotn@gmail.com**
 
-Встреча 3. [Презентация](https://www.canva.com/design/DAEqhovLdtY/oA_GuwdhHx5aWREeQXHoQQ/edit?utm_content=DAEqhovLdtY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), [pdf](https://github.com/AnnSenina/Python_DH/blob/main/Python.%20%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B%2C%20%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0%2C%20%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D0%B8.pdf)  
+Встреча 3. [Презентация](https://www.canva.com/design/DAEqhovLdtY/oA_GuwdhHx5aWREeQXHoQQ/view?utm_content=DAEqhovLdtY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), [pdf](https://github.com/AnnSenina/Python_DH/blob/main/Python.%20%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B%2C%20%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0%2C%20%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D0%B8.pdf)  
 Домашнее задание 2:  
 Нужна почта Яндекс, по [ссылке](https://contest.yandex.ru/contest/38104/enter/)
 
