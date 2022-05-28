@@ -61,5 +61,6 @@
 [Блокнот](https://colab.research.google.com/drive/1h2p36jsxp5wVNWCk_XW_r-0mSk_FwZ8k?usp=sharing) встречи 4 от 27.05.2022  
 [Запись](https://eduhseru.sharepoint.com/sites/PythonDigitalHumanities/Shared%20Documents/General/Recordings/General-20220527_205850-%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F.mp4?web=1) встречи 4  
   
+[Решение домашней работы_1](https://colab.research.google.com/drive/14IlLXbowiEGT5X9npAdjjmfyCfOtWw_P?usp=sharing)  
 [Решение домашней работы_2](https://colab.research.google.com/drive/1Mod07QDV2xwSbnS8GYyVSQsRYcuFkdcN?usp=sharing)  
 
