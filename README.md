@@ -64,5 +64,5 @@
 [Решение домашней работы_1](https://colab.research.google.com/drive/14IlLXbowiEGT5X9npAdjjmfyCfOtWw_P?usp=sharing)  
 [Решение домашней работы_2](https://colab.research.google.com/drive/1Mod07QDV2xwSbnS8GYyVSQsRYcuFkdcN?usp=sharing)  
   
-Разница между датами в днях, [Блокнот](https://colab.research.google.com/drive/1OfiD0T1I9Elf1fract2iFKFY20Zmmja3?usp=sharing), автор - Никита Маткин  
-Игра на Хеллуин, [Блокнот](https://colab.research.google.com/drive/1Vdy6qQPbww8_4mTTqSEz3G4aXfMFeemh?usp=sharing), автор - Анастасия Михайлова  
+Разница между датами в днях, [блокнот](https://colab.research.google.com/drive/1OfiD0T1I9Elf1fract2iFKFY20Zmmja3?usp=sharing), автор - Никита Маткин  
+Игра на Хеллуин, [блокнот](https://colab.research.google.com/drive/1Vdy6qQPbww8_4mTTqSEz3G4aXfMFeemh?usp=sharing), автор - Анастасия Михайлова  
