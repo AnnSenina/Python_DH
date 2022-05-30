@@ -53,8 +53,7 @@
 [Презентация](https://www.canva.com/design/DAEqhovLdtY/oA_GuwdhHx5aWREeQXHoQQ/view?utm_content=DAEqhovLdtY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), [pdf](https://github.com/AnnSenina/Python_DH/blob/main/Python.%20%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B%2C%20%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0%2C%20%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D0%B8.pdf)  
 [Блокнот](https://colab.research.google.com/drive/1EO-njZvfecVFf2UZsAcKONYXrvzU1tB3?usp=sharing) встречи 3 от 23.05.2022  
 [Запись](https://eduhseru.sharepoint.com/sites/PythonDigitalHumanities/Shared%20Documents/General/Recordings/General-20220523_205928-%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F.mp4?web=1) встречи 3  
-Домашнее задание 2:  
-Нужна почта Яндекс, по [ссылке](https://contest.yandex.ru/contest/38104/enter/)  
+Домашнее задание 2: Яндекс, по [ссылке](https://contest.yandex.ru/contest/38104/enter/)  
 **UPD**: Добавила открытые тесты, теперь хорошо видно, что задача получает на вход и какой ответ должен получиться  
 
 ## Встреча 4. Условия+Циклы
@@ -68,3 +67,9 @@
   
 Разница между датами в днях: [блокнот](https://colab.research.google.com/drive/1OfiD0T1I9Elf1fract2iFKFY20Zmmja3?usp=sharing), автор - Никита Маткин  
 Игра на Хэллоуин: [блокнот](https://colab.research.google.com/drive/1Vdy6qQPbww8_4mTTqSEz3G4aXfMFeemh?usp=sharing), автор - Анастасия Михайлова  
+
+## Встреча 5. Функции (+ сортировки)
+[Блокнот](https://colab.research.google.com/drive/16p2WjzLgpVkW87rbEJLtfyhMFevMrwm_?usp=sharing)  
+[Запись](https://eduhseru.sharepoint.com/sites/PythonDigitalHumanities/Shared%20Documents/General/Recordings/%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B5%20_%D0%9E%D0%B1%D1%89%D0%B8%D0%B9_-20220530_210033-%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F.mp4?web=1) встречи 5
+
+Разница между датами в днях: [Time+def](https://colab.research.google.com/drive/1pe2gyNPFL7L6P0q-bUC59h5ZKEMaImX9?usp=sharing) - сокращение программы Никиты Маткина
