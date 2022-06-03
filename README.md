@@ -73,3 +73,8 @@
 [Запись](https://eduhseru.sharepoint.com/sites/PythonDigitalHumanities/Shared%20Documents/General/Recordings/%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B5%20_%D0%9E%D0%B1%D1%89%D0%B8%D0%B9_-20220530_210033-%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F.mp4?web=1) встречи 5
 
 Разница между датами в днях: [Time+def](https://colab.research.google.com/drive/1pe2gyNPFL7L6P0q-bUC59h5ZKEMaImX9?usp=sharing) - сокращение программы Никиты Маткина
+
+## Встреча 6. Регулярные выражения
+[Презентация]([Презентация](https://docs.google.com/presentation/d/19FWFu710o5uvefMZCaLn5eux03Cul-MWeP9QDmB5HFI/edit?usp=sharing), [pdf]  
+[Блокнот] встречи от 03.06.2022  
+[Запись](https://eduhseru.sharepoint.com/sites/PythonDigitalHumanities/Shared%20Documents/General/Recordings/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20Python_20220603_160158.mp4?web=1)  
