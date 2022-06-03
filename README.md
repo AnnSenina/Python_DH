@@ -75,6 +75,6 @@
 Разница между датами в днях: [Time+def](https://colab.research.google.com/drive/1pe2gyNPFL7L6P0q-bUC59h5ZKEMaImX9?usp=sharing) - сокращение программы Никиты Маткина
 
 ## Встреча 6. Регулярные выражения
-[Презентация]([Презентация](https://docs.google.com/presentation/d/19FWFu710o5uvefMZCaLn5eux03Cul-MWeP9QDmB5HFI/edit?usp=sharing), [pdf]  
+[Презентация]([Презентация](https://docs.google.com/presentation/d/19FWFu710o5uvefMZCaLn5eux03Cul-MWeP9QDmB5HFI/edit?usp=sharing), [pdf](https://github.com/AnnSenina/Python_DH/blob/main/Python%20%26%20DH%2C%20%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B5%20%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.pdf)  
 [Блокнот] встречи от 03.06.2022  
 [Запись](https://eduhseru.sharepoint.com/sites/PythonDigitalHumanities/Shared%20Documents/General/Recordings/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20Python_20220603_160158.mp4?web=1)  
