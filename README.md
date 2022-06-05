@@ -80,6 +80,6 @@
 [Запись](https://eduhseru.sharepoint.com/sites/PythonDigitalHumanities/Shared%20Documents/General/Recordings/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20Python_20220603_160158.mp4?web=1) встречи 5  
 В презентации используются материалы Даниила Скоринкина, в блокноте - Татьяны Рогович (НИУ ВШЭ)  
   
-[Решение домашней работы 3](https://colab.research.google.com/drive/1kivtKRfZ842mkyQbbRXlPPn6uFc7bL6g?usp=sharing)
+[Решение домашней работы 3](https://colab.research.google.com/drive/1kivtKRfZ842mkyQbbRXlPPn6uFc7bL6g?usp=sharing)  
 Подробный разбор [задачи 1](https://colab.research.google.com/drive/1ERuiK3ld1vLCtW05kKNr6w64mkPEoSnF?usp=sharing) из домашней работы 2  
 
