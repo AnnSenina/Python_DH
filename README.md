@@ -81,5 +81,6 @@
 В презентации используются материалы Даниила Скоринкина, в блокноте - Татьяны Рогович (НИУ ВШЭ)  
   
 [Решение домашней работы 3](https://colab.research.google.com/drive/1kivtKRfZ842mkyQbbRXlPPn6uFc7bL6g?usp=sharing)  
+Примеры решения дополнительных сложных задач по [функциям](https://colab.research.google.com/drive/1V1SnDK6qUkX02v38K2hvkUzk6E18E6pZ?usp=sharing)  
 Подробный разбор [задачи 1](https://colab.research.google.com/drive/1ERuiK3ld1vLCtW05kKNr6w64mkPEoSnF?usp=sharing) из домашней работы 2  
 
