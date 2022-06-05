@@ -69,7 +69,7 @@
 Игра на Хэллоуин: [блокнот](https://colab.research.google.com/drive/1Vdy6qQPbww8_4mTTqSEz3G4aXfMFeemh?usp=sharing), автор - Анастасия Михайлова  
 
 ## Встреча 5. Функции (+ сортировки)
-[Блокнот](https://colab.research.google.com/drive/16p2WjzLgpVkW87rbEJLtfyhMFevMrwm_?usp=sharing) встречи 5 от 30.05.2022  
+[Блокнот](https://colab.research.google.com/drive/16p2WjzLgpVkW87rbEJLtfyhMFevMrwm_?usp=sharing) встречи 5 от 30.05.2022 (в конце блокнота есть 2 сложные задачи)    
 [Запись](https://eduhseru.sharepoint.com/sites/PythonDigitalHumanities/Shared%20Documents/General/Recordings/%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B5%20_%D0%9E%D0%B1%D1%89%D0%B8%D0%B9_-20220530_210033-%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F.mp4?web=1) встречи 5
 
 Разница между датами в днях: [Time+def](https://colab.research.google.com/drive/1pe2gyNPFL7L6P0q-bUC59h5ZKEMaImX9?usp=sharing) - сокращение программы Никиты Маткина
