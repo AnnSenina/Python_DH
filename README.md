@@ -88,5 +88,8 @@
 [Блокнот](https://colab.research.google.com/drive/1eUNHURtmuuq1ogWZmfSva88fIA16el4t?usp=sharing) встречи 7 от 06.06.2022  
 [Запись](https://eduhseru.sharepoint.com/sites/PythonDigitalHumanities/Shared%20Documents/General/Recordings/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20Python-20220606_210004-%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F.mp4?web=1) встречи 7  
 [Лемматизатор](https://colab.research.google.com/drive/12wnm3KLoZSlPCYb_BlEeVaTzA0mHPip-?usp=sharing) без ограничения по объему текста  
+  
 [Домашнее задание 4](https://contest.yandex.ru/contest/38357/enter/)  
+**Важно!** При решении задач 1-3 выбран компиллятор (make) Python - он позволяет вам определить функцию (от def до return), а затем автопроверка сама используют вашу функцию в своей подпрограмме. **Вам НЕ нужно использовать input и print**  
+Начиная с задачи 4, переключите компиллятор на **обычный Python без слова make**  
 
