@@ -93,3 +93,8 @@
 **Важно!** При решении задач 1-3 выбран компилятор, он же язык язык - (make) Python - он позволяет вам определить функцию (от def до return), а затем автопроверка сама используют вашу функцию в своей подпрограмме. **Вам НЕ нужно использовать input и print**  
 Начиная с задачи 4, переключите компилятор на **обычный Python без слова make**  
 ![Task](https://user-images.githubusercontent.com/105628605/172375191-3adf13f2-4c00-417b-920f-dd7dc75562e8.jpg)
+
+## Встреча 8. Краулеры+парсеры+скрейперы
+[Блокнот](https://colab.research.google.com/drive/1Qrx09CPIg8lBvjjWvL1Bf0zlRp5B3HGZ?usp=sharing) встречи 8 от 11.06.2022  
+[Пример](https://colab.research.google.com/drive/1Uij4YC3L8JSoxg0wYCoo4slEOASJ20p6?usp=sharing) переделанной функции GetNews(), настроенной для скрейпинга всех текстов с сайта [permnewspapers.ru](http://permnewspapers.ru)  
+[Запись 1](https://eduhseru.sharepoint.com/sites/PythonDigitalHumanities/Shared%20Documents/General/Recordings/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20Python-20220610_210058-%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F.mp4?web=1), [Запись 2 (последние 10 минут случайно записались отдельно)](https://eduhseru.sharepoint.com/sites/PythonDigitalHumanities/Shared%20Documents/General/Recordings/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20Python-20220610_210058-%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%201.mp4?web=1) встречи 8  
