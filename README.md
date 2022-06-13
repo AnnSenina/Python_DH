@@ -22,6 +22,13 @@
 # !!! Здесь будет ссылка на итоговое тестирование
 
 ## Встреча 9. Основные библиотеки питона для DH-задач  
+[Презентация в pdf](https://github.com/AnnSenina/Python_DH/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf)  
+[Блокнот](https://colab.research.google.com/drive/1R7hSX6Uy4C8wObseY8HP3S6z8F7CTlTs?usp=sharing) встречи 9 от 14.06.2022
+[Тематическое моделирование](https://colab.research.google.com/drive/1Ufz87uIPkLh6njJRNafYcG1B50fREi4_?usp=sharing) от Даниила Скоринкина - полезный и глубокий анализ текста  
+[Простая статистика + визуализация](https://colab.research.google.com/drive/10XX3j0qqbRHoTcbzDTC3zdqmlLFVWdGn?usp=sharing), данные [ОВД-Инфо](https://github.com/AnnSenina/Python_DH/blob/main/%D0%9E%D0%92%D0%94-%D0%98%D0%BD%D1%84%D0%BE), ссылка на [источник](https://data.ovdinfo.org/)    
+[Сложная статистика](https://colab.research.google.com/drive/12YD9kh8fAWt_wkhQo-8FlHpqg4XdzFvr?usp=sharing), данные о просмотре ТВ и тревожности: [socio](https://github.com/AnnSenina/Python_DH/blob/main/socio.scv), [form](https://github.com/AnnSenina/Python_DH/blob/main/form.csv)  
+[Мастер-класс](https://colab.research.google.com/drive/15nmIStAxfAbSt8ftYi5RTgvF-lztRehL?usp=sharing), иллюстрация возможностей пайтона, разные визуализации (история о данных)  
+
 [Решение домашней работы 4](https://colab.research.google.com/drive/1wqYF-zVzc5Qd7Xxi7p4lUSQAglofiKJV?usp=sharing)  
 
 ## Встреча 8. Краулеры+парсеры+скрейперы
