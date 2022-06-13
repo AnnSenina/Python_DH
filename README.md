@@ -23,8 +23,8 @@
 
 ## Встреча 9. Основные библиотеки питона для DH-задач  
 [Презентация в pdf](https://github.com/AnnSenina/Python_DH/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf)  
-[Запись](https://eduhseru.sharepoint.com/sites/PythonDigitalHumanities/Shared%20Documents/General/Recordings/%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B5%20_%D0%9E%D0%B1%D1%89%D0%B8%D0%B9_-20220613_210040-%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F.mp4?web=1) встречи 9  
-[Блокнот](https://colab.research.google.com/drive/1R7hSX6Uy4C8wObseY8HP3S6z8F7CTlTs?usp=sharing) встречи 9 от 14.06.2022  
+[Запись](https://eduhseru.sharepoint.com/sites/PythonDigitalHumanities/Shared%20Documents/General/Recordings/%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B5%20_%D0%9E%D0%B1%D1%89%D0%B8%D0%B9_-20220613_210040-%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F.mp4?web=1) встречи 9 от 14.06.2022  
+[Блокнот](https://colab.research.google.com/drive/1R7hSX6Uy4C8wObseY8HP3S6z8F7CTlTs?usp=sharing) встречи 9   
 [Тематическое моделирование](https://colab.research.google.com/drive/1Ufz87uIPkLh6njJRNafYcG1B50fREi4_?usp=sharing) от Даниила Скоринкина - полезный и глубокий анализ текста  
 [Простая статистика + визуализация](https://colab.research.google.com/drive/10XX3j0qqbRHoTcbzDTC3zdqmlLFVWdGn?usp=sharing), данные [ОВД-Инфо](https://github.com/AnnSenina/Python_DH/blob/main/%D0%9E%D0%92%D0%94-%D0%98%D0%BD%D1%84%D0%BE), ссылка на [источник](https://data.ovdinfo.org/)    
 [Сложная статистика](https://colab.research.google.com/drive/12YD9kh8fAWt_wkhQo-8FlHpqg4XdzFvr?usp=sharing), данные о просмотре ТВ и тревожности: [socio](https://github.com/AnnSenina/Python_DH/blob/main/socio.scv), [form](https://github.com/AnnSenina/Python_DH/blob/main/form.csv)  
