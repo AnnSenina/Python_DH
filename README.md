@@ -19,6 +19,11 @@
 
 Расписание курса [здесь](https://github.com/AnnSenina/Python_DH/blob/main/Расписание%20курса)
 
+# !!! Здесь будет ссылка на итоговое тестирование
+
+## Встреча 9. Основные библиотеки питона для DH-задач  
+[Решение домашней работы 4](https://colab.research.google.com/drive/1wqYF-zVzc5Qd7Xxi7p4lUSQAglofiKJV?usp=sharing)  
+
 ## Встреча 8. Краулеры+парсеры+скрейперы
 [Блокнот](https://colab.research.google.com/drive/1Qrx09CPIg8lBvjjWvL1Bf0zlRp5B3HGZ?usp=sharing) встречи 8 от 11.06.2022  
 [Пример](https://colab.research.google.com/drive/1Uij4YC3L8JSoxg0wYCoo4slEOASJ20p6?usp=sharing) переделанной функции GetNews(), настроенной для скрейпинга всех текстов с сайта [permnewspapers.ru](http://permnewspapers.ru)  
