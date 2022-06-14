@@ -19,7 +19,7 @@
 
 Расписание курса [здесь](https://github.com/AnnSenina/Python_DH/blob/main/Расписание%20курса)
 
-# !!! Здесь будет ссылка на итоговое тестирование
+# !!! [Cсылка](https://colab.research.google.com/drive/1uWznpEXbf6raAXOSr9egRlTORdp804sc?usp=sharing) на итоговое тестирование
 
 ## Встреча 9. Основные библиотеки питона для DH-задач  
 [Презентация в pdf](https://github.com/AnnSenina/Python_DH/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf)  
