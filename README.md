@@ -18,7 +18,8 @@
 9. Основные библиотеки питона для DH-задач
 
 Расписание курса [здесь](https://github.com/AnnSenina/Python_DH/blob/main/Расписание%20курса)
-
+# [Решение](https://colab.research.google.com/drive/1zL4h1U4X2gSyv3EZmZdY7fahR24O_s4A?usp=sharing) финального теста!  
+  
 # !!! [Cсылка](https://colab.research.google.com/drive/1uWznpEXbf6raAXOSr9egRlTORdp804sc?usp=sharing) на итоговое тестирование  
 Работаем в Colaboratory: вашим решением нужно поделиться со мной, открыв доступ по почте: ann.sotn@gmail.com  
 
